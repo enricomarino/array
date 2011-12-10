@@ -2,7 +2,7 @@
   "author": "Enrico Marino <enrico.marino@email.com>",
   "name": "array",
   "description": "JavaScript array utilities library",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "homepage": "https://github.com/onirame/array",
   "repository": {
     "type": "git",
